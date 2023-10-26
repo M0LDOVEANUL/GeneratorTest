@@ -123,8 +123,7 @@ header{
         background-color: #0F2F5A;
         max-width: 250px;
         width: 100%;
-        height: fit-content;
-        padding-top: 55px;
+        margin-top: 55px;
         gap: 0px;
         border-radius: 8px;
     }
@@ -346,7 +345,6 @@ a {
 }
 .colaborators__info_img svg {
     background-color: #3A54DD;
-    width: fit-content;
     border-radius: 50%;
 }
 
