@@ -325,6 +325,7 @@ a {
 /* BACK */
 .back {
     margin-top: 25px;
+    cursor: pointer;
 }
 
 /* COLABORATORS */
