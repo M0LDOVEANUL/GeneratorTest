@@ -146,6 +146,7 @@ footer {
     padding: 24px 0px;
     color: #fff;
 
+
 }
 
 footer h3 {
@@ -411,6 +412,10 @@ a {
 }
 
 /* SELECT EXAM */
+.select_exam{
+    margin-top: 50px;
+    margin-bottom: 98px;
+}
 .select_exam div {
     justify-content: space-between;
 }
@@ -645,6 +650,9 @@ a {
     .select_subject__button {
         flex-direction: column;
         align-items: center;
+    }
+    .select_subject__button ul li a{
+        font-size: 20px;
     }
 }
 
