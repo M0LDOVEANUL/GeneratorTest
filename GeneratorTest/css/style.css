@@ -242,6 +242,9 @@ a {
 .generate svg {
     height: 100%;
 }
+.generate{
+    margin-bottom: 115px;
+}
 
 /* WHO WE ARE */
 .who_we_are {
