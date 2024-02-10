@@ -531,6 +531,14 @@ a {
     display: flex;
     justify-content: center;
 }
+.select_profil select{
+    border:1px solid #0F2F5A;
+    border-radius: 5px;
+    color: #0F2F5A;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 5px;
+}
 
 @media only screen and (max-width: 992px) {
     .features div {
@@ -698,9 +706,13 @@ a {
     .select_exam__bacalaureat img {
         height: 200px;
     }
+    .select_profil select{
+        font-size: 14px;
+    }
 
     footer p {
         width: fit-content;
         display: block;
     }
+    
 }
